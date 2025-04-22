@@ -15,7 +15,7 @@ export default function Gallery() {
       title: "Ethereal Dreams",
     },
     {
-      src: "/placeholder.svg?height=600&width=400",
+      src: "/placeholder2.svg?height=600&width=400",
       alt: "Art piece 2",
       title: "Urban Symphony",
     },
