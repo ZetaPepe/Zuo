@@ -15,7 +15,7 @@ export default function Portfolio() {
       id: 1,
       title: "Digital Dreamscape",
       category: "digital",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/placeholder2.svg?height=400&width=600",
       year: "2024",
     },
     {
