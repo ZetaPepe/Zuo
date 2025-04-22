@@ -10,7 +10,7 @@ export default function Gallery() {
 
   const images = [
     {
-      src: "/placeholder.svg?height=600&width=400",
+      src: "/placeholder1.svg?height=600&width=400",
       alt: "Art piece 1",
       title: "Ethereal Dreams",
     },
